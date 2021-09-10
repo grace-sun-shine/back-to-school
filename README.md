@@ -1,2 +1,2 @@
 # back-to-school
-Location of classes
+Location of classes: Zoom
